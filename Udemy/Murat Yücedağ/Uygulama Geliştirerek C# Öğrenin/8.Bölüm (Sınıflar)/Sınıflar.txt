@@ -1,0 +1,28 @@
+Sınıflar (Classes):
+------------------------------
+
+* Kod Tekrarını Önlemek,
+
+* Tekrar Kullanılabilirliği Sağlamak,
+
+* Gizlilikler Sağlamak (Erişim Belirleyici methodlar Methodlar Vasıtası İle)
+
+* Maliyetleri Azaltmak
+
+
+Sınıf bir işin veya modelin çatısını oluşturmaktır.
+
+Nesne Sınıf özelliklerine ulaşabilmek için kullanılan köprüdür. Nesne Oluşturularak Sınıfın özelliklerine ve methodlarına erişilir.
+
+Sınıflar Özellikler (nitelikler) Barındırır.
+
+
+Apartman --> Sınıf
+Daireler --> Nesne
+Renk Kat Tip Fiyat --> Özelliktir.
+
+
+
+
+
+Araba yeniaraba = new Araba(); // Nesne Oluşturma Syntaxı Bu şekildedir. 

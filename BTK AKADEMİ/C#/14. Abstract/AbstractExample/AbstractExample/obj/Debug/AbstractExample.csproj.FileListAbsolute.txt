@@ -1,0 +1,3 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\EĞİTİM SERİLERİ\BTK AKADEMİ\14. Abstract\AbstractExample\AbstractExample\obj\Debug\AbstractExample.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\EĞİTİM SERİLERİ\BTK AKADEMİ\14. Abstract\AbstractExample\AbstractExample\obj\Debug\AbstractExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\EĞİTİM SERİLERİ\BTK AKADEMİ\14. Abstract\AbstractExample\AbstractExample\obj\Debug\AbstractExample.csproj.CoreCompileInputs.cache
